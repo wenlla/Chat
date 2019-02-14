@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\091a2ed158b62360b57cf0800b921f12f92ff8b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_6e57ecb71ae8de5b74ef0a7abf84cb4760606f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\a95c369d41458baa33e79ffea5a8fbfa3e2adfc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_1fa1803603d78b03183d9a0a9b33deed2739093d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\333056b14a44a0c83aaba901e7f295cfb52be9ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_de9b79de5b1d644d4c2755bdbe751b345b3ec1b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_f8c26825653e6eb8da98524e53f3997859b6ac33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\tools\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_72f2abf61da715c8aa32cbe84d5bbdc012471c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\tools\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8579e5de2e974d06db2b0f8d6aead6b29300475f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\90511fd9bbbbaebaa372935a07d2a5190db2c43e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_6c26a68423016823ee6266f62ddb375979813d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.gradle\caches\modules-2\files-2.1\com.hynnet\jxl\2.6.12.1\315cafb72f1b257e5d23ade5e83804c297af2e48\jxl-2.6.12.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="315cafb72f1b257e5d23ade5e83804c297af2e48">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\jxl-2.6.12.1_d7e59a15752a5a12f4c78c994b960e2200441763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\4d7c4420f3601b370c339f7428f83e063cf581a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_5dc82294adc08f86244530915bca9a102e4e88cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\2ba29f7474708a2bf2ccb2485dfb122390928e4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_fef897f6f86b8444a36a6ad893ca07ca8eac82b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\b31fbba92eacc2f3e83a735d0da814c895d98708\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_f5396ee04cb2bb198b683c3364c27c2c55bc702a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.3.1\2c4076b466a0eb4d6ddf5721edd35cd1adc1f317\stetho-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\stetho-1.3.1_56fdf37ca2abb4412e3dfb68a98f74e561893a40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.gradle\caches\modules-2\files-2.1\log4j\log4j\1.2.14\3b254c872b95141751f414e353a25c2ac261b51\log4j-1.2.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03b254c872b95141751f414e353a25c2ac261b51">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\log4j-1.2.14_6eb070441e3662fc3c0e4cacb320650174ad9719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\245c25856326a0a8e2b92c1dfd3499444abf27c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_fa42c08e04c45a9b216e4fbe49c3d8321d032636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\2cb39c5559a2f3419238e10cc4ed404358eb7e41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_af560e6e28cdb7b2a5d84783d307cd34f3ac19a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\commons-cli-1.2_a3b33ff2e7ec944b22f95e729945112bfe60f72b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\f90f1b53c2d377a16c1f971d141d3ba31e5a83e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_e15023b9155b0dbca7a1392047a2eddf619f064a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\.android\build-cache\8cbafcc365de22e900daeb45e5601d9389f7f652\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\temp\chatbot\app\build\intermediates\pre-dexed\debug\classes_19e25e83fff9928e45796ba12c847ed9e39a9045.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TFM_ChatBot</string>
+
+    <!--<string name="nota">Por favor, Ingrese el tipo de contenido que desea buscar, por ejemplo:buscar artículos, tesis o guías temáticas Internacionales, etc.</string>-->
+
+    <string name="nota">Siga los pasos a continuación.Primero, seleccione el tipo de documento que está buscando (opción única)</string>
+
+    <string name="art_type"> Artículo</string>
+
+    <string name="tesis_type"> Tesis</string>
+
+    <string name="guia_type">Guías temáticas Internacionales.</string>
+
+    <string name="nota_2">Por favor, ingrese 1 ~ 3 palabras clave, separadas por comas, por ejemplo: ¨biblioteca, biblioteconomía, digitalización¨</string>
+
+    <string name="nota_3">Si quiere, se puede buscar con un formato determinado</string>
+
+    <string name="tips">Espera un momentito……</string>
+
+    <string name="end_tips">Adios</string>
+
+    <string name="empty_tips">Por favor,siga las instrucciones para seleccionar o ingresar</string>
+</resources>
